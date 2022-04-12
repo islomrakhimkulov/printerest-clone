@@ -1,5 +1,5 @@
 # vue-pinterest
-# Demo - https://printerest.netlify.app/
+
 ## Project setup
 ```
 npm install
